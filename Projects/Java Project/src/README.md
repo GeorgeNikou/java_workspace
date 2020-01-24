@@ -1,5 +1,5 @@
 ## Restaurant Delivery Application
-This was a large team project. Three members assigned with the task to create a full Restaurant delivery application where the user can: 
+This was a large team project. Three members assigned with the task to create a full Restaurant delivery application. Actions include: 
 * Create food items/clients/employees/delivery orders
 * Read food items/clients/employees/delivery orders
 * Update food items/clients/employees/delivery orders

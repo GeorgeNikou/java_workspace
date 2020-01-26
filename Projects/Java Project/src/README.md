@@ -11,4 +11,4 @@ This was a large team project. Three members assigned with the task to create a 
 * no database
   * Simpleton with basic arraylists
   
-P.S: One of our members decided an early vacation was due and therefore left the burden of completing this three member project alone. We still managed to pass but were not able to get the delivery service operational.
+P.S: One of our members decided an early vacation was due and therefore left the burden of completing this three member project alone. We still managed to pass but were not able to get the delivery service operational due to time restrictions.
